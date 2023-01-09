@@ -10,5 +10,5 @@
 [App]
 13.232.191.132 ansible_user=ec2-user
 [myappservers]
-13.235.49.22  ansible_user=centos 
-3.110.196.89  ansible_user=centos
+35.78.99.50 ansible_user=centos 
+18.183.45.244 ansible_user=centos 
