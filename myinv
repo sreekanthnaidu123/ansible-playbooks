@@ -1,0 +1,14 @@
+[testservers]
+172.31.35.192 ansible_user=ec2-user
+172.31.47.50 ansible_user=ec2-user
+[Appservers]
+13.233.149.21 ansible_user=ec2-user
+3.110.225.131 ansible_user=ec2-user
+[Application]
+10.0.0.242 ansible_user=ec2-user
+10.0.0.194 ansible_user=ec2-user
+[App]
+13.232.191.132 ansible_user=ec2-user
+[myappservers]
+13.235.49.22  ansible_user=centos 
+3.110.196.89  ansible_user=centos
